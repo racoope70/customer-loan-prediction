@@ -12,7 +12,7 @@
 6. [License](#license)
 7. [Acknowledgments](#acknowledgments)
 8. [How to Use This Repository](#how-to-use-this-repository)
-9. [Author](#author)
+
 
 ---
 
