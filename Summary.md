@@ -60,35 +60,43 @@ This project focuses on predicting personal loan approvals using machine learnin
 ## **Visualizations**
 ### **1. Class Distribution Before and After SMOTE**
 Demonstrates how SMOTE balanced the dataset by increasing the minority class representation.
-![Class Distribution](./Class%20Dist.%20Before%20and%20After%20SMOTE.png)
+![Class Distribution](![image](https://github.com/user-attachments/assets/087b6490-5441-4da7-b11b-c52098d5e53a)
+
 
 ### **2. Confusion Matrix**
 Illustrates model accuracy by showing true positives, false positives, true negatives, and false negatives.
-![Confusion Matrix](./Confusion%20Matrix.png)
+![Confusion Matrix](![image](https://github.com/user-attachments/assets/3a07ed21-da21-41f1-a623-2952256687ad)
+
 
 ### **3. Correlation Heatmap**
 Displays the relationship between numerical features in the dataset.
-![Correlation Heatmap](./Correlation%20Heatmap.png)
+![Correlation Heatmap](![image](https://github.com/user-attachments/assets/93e94497-a26d-459a-8a76-961ed58de37b)
+
 
 ### **4. Feature Importance**
 Identifies which features had the most impact on loan approval predictions.
-![Feature Importance](./Feature%20Importance.png)
+![Feature Importance](![image](https://github.com/user-attachments/assets/762813fd-8271-4737-aabe-21073cb62181)
+
 
 ### **5. Income Distribution**
 Shows the distribution of income in the dataset.
-![Income Distribution](./Income%20Distribution.png)
+![Income Distribution](![image](https://github.com/user-attachments/assets/21bcb2ca-805f-43ac-b086-f3388eb9d220)
+
 
 ### **6. Precision-Recall Curve**
 Displays the trade-off between precision and recall at different classification thresholds.
-![Precision Recall Curve](./Precision%20Recall%20Curve.png)
+![Precision Recall Curve](![image](https://github.com/user-attachments/assets/5ae31541-1594-4ba2-b3fa-d373f00ee012)
+
 
 ### **7. Residual Plot**
 Evaluates model prediction errors.
-![Residual Plot](./Residual%20Plot.png)
+![Residual Plot](![image](https://github.com/user-attachments/assets/dc2ff412-3e01-451c-a790-da733ae06b96)
+
 
 ### **8. ROC Curve**
 Illustrates the trade-off between sensitivity (True Positive Rate) and specificity (False Positive Rate).
-![ROC Curve](./ROC%20Curve.png)
+![ROC Curve](![image](https://github.com/user-attachments/assets/ae221c49-53d9-4557-b201-83b29076f976)
+
 
 ---
 
